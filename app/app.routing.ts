@@ -7,6 +7,7 @@ const appRoutes: Routes = [
     {
         path: '',
         redirectTo: "Login",
+        pathMatch: 'full'
     }, 
     { path: 'Login', component: LoginComponent},
     { path: 'Home', component: HomeComponent },

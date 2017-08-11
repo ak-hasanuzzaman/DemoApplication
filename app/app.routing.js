@@ -6,6 +6,7 @@ var appRoutes = [
     {
         path: '',
         redirectTo: "Login",
+        pathMatch: 'full'
     },
     { path: 'Login', component: login_component_1.LoginComponent },
     { path: 'Home', component: home_component_1.HomeComponent },

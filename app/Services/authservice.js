@@ -29,6 +29,7 @@ var AuthService = (function () {
             //     }
             //     resolve(this.isLoggedIn)
             // })
+            window.localStorage.setItem('auth_key', '123');
             _this.isLoggedIn = true;
             resolve(_this.isLoggedIn);
         });

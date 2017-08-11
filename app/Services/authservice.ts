@@ -23,6 +23,7 @@ export class AuthService {
             //     }
             //     resolve(this.isLoggedIn)
             // })
+            window.localStorage.setItem('auth_key', '123');
                     this.isLoggedIn = true;
            resolve(this.isLoggedIn)
             
