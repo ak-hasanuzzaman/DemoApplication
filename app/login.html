@@ -1,0 +1,20 @@
+<div class="center-div">
+    <div class="card-reveal">
+        <div class="card-content">
+            <span class="card-title">Login</span>
+        </div>
+        <div style="margin-top:2px;"></div>
+        <div class="input-field">
+            <div class="input-field">
+                <label for="user_name">User name</label>
+                <input id="user_name" type="text" class="validate" [(ngModel)]="localUser.username">
+            </div>
+            <div class="input-field">
+                <label for="password">Password</label>
+                <input id="password" type="password" class="validate" [(ngModel)]="localUser.password">
+            </div>
+            <div></div>
+            <button class="waves-effect waves-light btn" (click)="login()">Login</button>
+            <button class="waves-effect waves-light btn" (click)="signup()">Signup</button>
+        </div>
+    </div>
