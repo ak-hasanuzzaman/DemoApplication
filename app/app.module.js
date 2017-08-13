@@ -14,6 +14,7 @@ var forms_1 = require("@angular/forms");
 var platform_browser_1 = require("@angular/platform-browser");
 var ng2_bootstrap_1 = require("ng2-bootstrap");
 var app_component_1 = require("./app.component");
+var authmanager_1 = require("./authmanager");
 var AppModule = (function () {
     function AppModule() {
     }
@@ -30,7 +31,7 @@ AppModule = __decorate([
             app_routing_1.routing,
             http_1.HttpModule
         ],
-        providers: [],
+        providers: [authmanager_1.AuthManager],
         bootstrap: [app_component_1.AppComponent]
     })
 ], AppModule);
