@@ -1,0 +1,102 @@
+[33mcommit 8e6a7820557903a2d339787a4234dc245d449f2a[m[33m ([m[1;36mHEAD -> [m[1;32mtestsquash[m[33m, [m[1;31morigin/testsquash[m[33m)[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 12:30:29 2019 +0100
+
+    test3
+
+[33mcommit 185bdd1134a35887fb8781353e8f9aea0d69396a[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 12:29:48 2019 +0100
+
+    test2
+
+[33mcommit fa71f96f1558ac1475ce31825deb9346c9d9f592[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 12:29:29 2019 +0100
+
+    test1
+
+[33mcommit 9c41f9a9eb142bcd25bcfce729c2b6cce0901c1c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 12:25:18 2019 +0100
+
+    done
+
+[33mcommit d0163535e93791da16c0267f3e23dbaedb41414e[m
+Merge: 7427a9e af6b333
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 12:04:38 2019 +0100
+
+    Merge branch 'master' of https://github.com/ak-hasanuzzaman/DemoApplication
+
+[33mcommit 7427a9edf309b5369cde1330c764fa1e461703af[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sun Aug 13 23:06:51 2017 +0200
+
+    5 more commits are merged
+
+[33mcommit af6b333dba2a62f72be2f0a31efb9dc037c69ace[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 11:31:00 2019 +0100
+
+    SEcond commit
+
+[33mcommit 0e39dd79274693e64628aabc0352693a06d1c9ae[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Wed Dec 4 11:30:43 2019 +0100
+
+    First commit
+
+[33mcommit fc5ce0816aaf71e3e4355e6ce434ef11b825a3b1[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sat Sep 30 16:06:05 2017 +0200
+
+    ss
+
+[33mcommit 76c5caef68ab9e8046952f46e7a64e8ceef37218[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sat Sep 30 16:01:51 2017 +0200
+
+    ss
+
+[33mcommit cc6847af520eb5a5b1c962598f6d347b5ca3712d[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sat Sep 30 15:11:13 2017 +0200
+
+    sdfsf
+
+[33mcommit d05d3f1d0f8e1d42d39fe87df086d3ea24c8f14a[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sat Sep 30 15:07:49 2017 +0200
+
+    mm
+
+[33mcommit 5d3b429eef313cbdfc54c9f3af890c9719e3bd5f[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sat Sep 30 15:05:19 2017 +0200
+
+    hhh
+
+[33mcommit b8d3a2e805a660880940b9b26696ca03011c988f[m
+Author: ak-hasanuzzaman <hasan.se.bd@gmail.com>
+Date:   Sun Aug 13 23:06:51 2017 +0200
+
+    added
+
+[33mcommit 78bfcd8cb56a13286a96b8792ac51d21c23fc975[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Fri Aug 11 17:29:54 2017 +0200
+
+    more related to login
+
+[33mcommit 9a305554615bf45468cea1f391d4079531e54610[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Fri Aug 11 17:04:15 2017 +0200
+
+    added login implementation
+
+[33mcommit a72cecf605e230ee4de220563a23f3442629252a[m
+Author: Ak Hasanuzzaman <ak.hasanuzzaman@lomosoft.de>
+Date:   Fri Aug 11 13:58:40 2017 +0200
+
+    first commit
